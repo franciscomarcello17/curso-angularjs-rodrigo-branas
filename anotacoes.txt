@@ -1,0 +1,18 @@
+model
+view
+controller
+scope
+ngApp
+ngController
+ngBind
+vantagens e desvantagens ao usar a interpolação da expressão para exibir o conteúdo
+coisas que pode-se fazer dentro de uma expression.
+ngRepeat
+ngModel
+two way data binding
+ngClick
+porque evitar ao máximo ler o scope estando dentro do controller
+o que são diretivas
+ngDisabled
+ngOptions
+ngClass e ngStyle
