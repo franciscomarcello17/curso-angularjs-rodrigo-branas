@@ -16,3 +16,9 @@ o que são diretivas
 ngDisabled
 ngOptions
 ngClass e ngStyle
+ngInclude
+ngRequired
+$valid e $invalid
+$pristine e $dirty
+ngMinlength e ngMaxlength
+$error
